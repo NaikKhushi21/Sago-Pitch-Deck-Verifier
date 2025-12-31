@@ -66,4 +66,5 @@ results/
 # Pitch decks (don't commit confidential documents)
 *.pdf
 !samples/*.pdf
+!docs/*.pdf
 
